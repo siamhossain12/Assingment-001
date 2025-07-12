@@ -23,9 +23,9 @@ color: #4E47FF;
 background-color: #4E47FF;
 
 }
-.btn-tcolor{
+/* .btn-tcolor{
     color: #FFFFFF;
-}
+} */
 .n-lg{
     font-size:34px;
     font-weight: 900;
@@ -61,6 +61,7 @@ border-radius: 10px;
 
 font-weight: bold;
 font-size: 55px;
+
 
 
 
@@ -240,3 +241,104 @@ justify-content: ;
   border-radius: 48px;
   margin-top: 30px;
 }
+.footsec{
+  display: flex;
+  width: 1140px;
+  height: 632px;
+  background-color: #e5ecfc;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+.colom-foot{
+  width: 50%;
+  padding: 50px;
+}
+.mew{
+  font-weight: bold;
+  font-size: 97px;
+}
+footer input[type="email"],footer input[type="text"]{
+ width: 397px;
+ height: 50px;
+ padding: 4px 10px;
+ border-radius: 10px;
+
+
+
+}
+footer textarea{
+ width: 397px;
+ height: 100px;
+ padding: 4px 10px;
+ border-radius: 10px;
+
+
+
+}
+.futter-button{
+
+  color: #FFFFFF;
+  width: 420px ;
+  height: 40px ;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.uper-title{
+  font-weight: 900px;
+  font-size: 70px;
+  text-align: center;
+}
+.ut-discrip{
+  color: rgba(136, 153, 136, 0.589);
+  text-align: center;
+}
+.foter-linkpp {
+  display: flex;
+  justify-content: space-around;
+  color: rgba(136, 153, 136, 0.616);
+}
+.last-footer{
+  width: 50%;
+  margin-left: 250px;
+  margin-bottom: 60px;
+}
+   /* .n-bt,.dwn-btn,.middle-btn,.b-button,.futter-button,:hover{
+   
+
+  background-color: #9794f8;
+} */
+  .futter-button:hover{
+   
+
+  background-color: #9794f8;
+}
+.n-bt:hover{
+   
+
+  background-color: #9794f8;} 
+/* ,,,, */
+.n-bt:hover{
+   
+
+  background-color: #9794f8;
+}
+.dwn-btn:hover{
+   
+
+  background-color: #9794f8;
+}
+.middle-btn:hover{
+   
+
+  background-color: #9794f8;
+}
+.b-button:hover{
+   
+
+  background-color: #9794f8;
+}
+
+
+
+
+
